@@ -41,9 +41,6 @@ Bu projede, rüzgar enerjisi üretimi tahmin etmek için aşağıdaki adımlar i
 
 - **Şehir Seçimi ve Hava Durumu Görselleştirmesi**:
   Kullanıcı, bir şehir seçtiğinde, harita üzerinde şehir konumu gösterilmektedir. Ayrıca, API'den alınan hava durumu verileri (sıcaklık, rüzgar hızı, rüzgar yönü, nem) ekranda görüntülenmektedir.
-  
-- **Rüzgar Yönü ve Harita Üzerinde Ok**:
-  Seçilen şehirdeki rüzgar yönü, harita üzerinde bir ok simgesiyle gösterilmektedir. Ok, rüzgarın yönüne göre dönecek şekilde ayarlanmıştır.
 
 - **Rüzgar Enerjisi Tahmini**:
   Kullanıcı, hava durumu verilerine dayalı olarak rüzgar enerjisi üretimi tahmini almak için butona basabilir. Model, tahmin edilen rüzgar enerjisi üretimini kilowatt cinsinden gösterecektir.
