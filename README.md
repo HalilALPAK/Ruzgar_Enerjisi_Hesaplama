@@ -8,7 +8,7 @@ Projede aşağıdaki kütüphaneler kullanılmıştır:
 
 - **Streamlit**: Web tabanlı interaktif arayüz için kullanıldı.
 - **Folium**: Harita üzerinde konum ve rüzgar yönünü görselleştirmek için kullanıldı.
-- **Requests**: Hava durumu verilerini çekmek için kullanıldı.
+- **OpenWeather**: Hava durumu verilerini çekmek için kullanıldı.
 - **Pickle**: Eğitimli makine öğrenimi modelini yüklemek için kullanıldı.
 - **NumPy**: Veri işleme ve model girişleri için kullanıldı.
 - **Scikit-learn**: Model eğitimi ve GridSearchCV ile en iyi hiperparametrelerin bulunması için kullanıldı.
